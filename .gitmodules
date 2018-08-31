@@ -1,3 +1,6 @@
 [submodule "insights-core"]
 	path = insights-core
 	url = https://github.com/RedHatInsights/insights-core.git
+[submodule "support-rules"]
+	path = support-rules
+	url = https://gitlab.cee.redhat.com/support-insights/support-rules.git
